@@ -10,7 +10,14 @@ body{
 }
 
 .centered-form .panel{
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(255, 0, 255, 0.5);
   box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+}
+
+.panel-default > .panel-heading{
+    color: #fff;
+    background-color: #500000;
+    
+}
  
 /* CSS PARA FORMULARIO DE REGISTRO - FIN */
